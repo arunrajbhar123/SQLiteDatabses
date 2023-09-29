@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLDatabases</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="age">Age</string>
+</resources>
